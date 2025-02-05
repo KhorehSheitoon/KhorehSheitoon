@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KhorehSheitoon
+- 👋 Hi, I’m @etemadiii
 - 👀 I’m interested in Software Engineering in the Financial Industry 
 - 🌱 I’m currently learning React, Swift, Python. Azure
 - 😄 I’m looking to collaborate on 
